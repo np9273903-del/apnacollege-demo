@@ -1,3 +1,3 @@
 # apnacollege-demo
-Author-nikhil patil  <br>
+Author-nikhil shradha patil  <br>
 watching tutorial 
